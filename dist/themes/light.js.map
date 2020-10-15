@@ -1,0 +1,1 @@
+{"version":3,"file":"light.js","sourceRoot":"","sources":["../../src/themes/light.ts"],"names":[],"mappings":"AAEA,MAAM,UAAU,GAAiB;IAC/B,IAAI,EAAE,OAAO;IACb,MAAM,EAAE;QACN,UAAU,EAAE,oBAAoB;QAChC,IAAI,EAAE,iBAAiB;QACvB,SAAS,EAAE,oBAAoB;QAC/B,MAAM,EAAE,2BAA2B;QACnC,KAAK,EAAE,2BAA2B;KACnC;CACF,CAAC;AAEF,eAAe,UAAU,CAAC"}
