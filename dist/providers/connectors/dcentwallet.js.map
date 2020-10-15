@@ -1,1 +1,0 @@
-{"version":3,"file":"dcentwallet.js","sourceRoot":"","sources":["../../../src/providers/connectors/dcentwallet.ts"],"names":[],"mappings":";;;;;;;;;AAOA,MAAM,oBAAoB,GAAG,CAC3B,aAAkB,EAClB,IAA4B,EAC5B,EAAE;IACF,MAAM,QAAQ,GAAG,IAAI,aAAa,CAAC,IAAI,CAAC,CAAC;IAEzC,MAAM,QAAQ,CAAC,MAAM,EAAE,CAAC;IAExB,OAAO,QAAQ,CAAC;AAClB,CAAC,CAAA,CAAC;AAEF,eAAe,oBAAoB,CAAC"}
