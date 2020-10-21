@@ -1,7 +1,6 @@
 import * as env from 'detect-browser';
 
 import { CHAIN_DATA_LIST } from '../constants';
-import { themesList } from '../themes';
 import { providers, injected } from '../providers';
 import {
   IProviderInfo,
@@ -210,10 +209,6 @@ export function getChainId(network: string): number {
     throw new Error(`No chainId found match ${network}`);
   }
   return match.chainId;
-}
-
-export function getThemeColors(theme: string | ThemeColors): ThemeColors {
-  return typeof theme === 'string' ? themesList[theme].colors : theme;
 }
 
 export function findMatchingRequiredOptions(
