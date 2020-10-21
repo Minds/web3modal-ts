@@ -1,9 +1,9 @@
 {
-  "name": "@dorgtech/web3modal-ts",
+  "name": "@mindsorg/web3modal-ts",
   "version": "1.0.0",
   "description": "Web3modal's provider layer abstraction for simple implementation of web3 wallet connections",
   "homepage": "https://github.com/dOrgTech/Web3Modal-ts",
-  "author": "dOrg",
+  "author": "Minds",
   "license": "MIT",
   "scripts": {
     "copy:logos": "copyfiles -u 3 ./src/providers/logos/** ./dist/providers/logos",
